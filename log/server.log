@@ -1,0 +1,21 @@
+0: Server starting with version 256
+0: Starting server AMP TEAM RACING - SP1
+0: Joining during race is allowed
+0: FileToStruct cfg/eventRules.json
+0: Translated realtime interval hzToMiliseconds(18)=54
+
+0: SessionManager::randomizeGreenFlagTriggers: s:0.890000 e:0.950000 r:0.898126
+0: Track monza was set and updated
+0: Event changed
+0: Reading custom event rules
+0: FileToStruct cfg/eventRules.json
+0: FileToStruct cfg/assistRules.json
+0: SessionManager::randomizeGreenFlagTriggers: s:0.890000 e:0.950000 r:0.932333
+0: Significant change detected, updating lobby (1|1)
+0: Resetting weekend to friday night
+0: Reset time to friday night: 0 -> 0
+0: Reset time to first session: 0 -> 136800
+0: SessionManager::randomizeGreenFlagTriggers: s:0.890000 e:0.950000 r:0.926820
+0: Listening to TCP 9232 | UDP 9231
+154: Session changed: Qualifying -> Qualifying 0
+154: Detected sessionPhase <waiting for drivers> -> <waiting for drivers> (Qualifying)
